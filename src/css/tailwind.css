@@ -1,9 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@layer base{
-    html{
-        font-family:url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
-    }
-}
